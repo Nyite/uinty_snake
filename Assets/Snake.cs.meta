@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b66541e06530474c819f3b52ef5997f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - segmentPrefab: {fileID: 3903250632570575788, guid: 113d6aeff9a9b4d8ea187c4f6899ed05, type: 3}
+  - applePrefab: {fileID: 586003172086609124, guid: 78729a91942a54f99924bf673b684eb0, type: 3}
+  - gameBox: {instanceID: 0}
+  - score: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
